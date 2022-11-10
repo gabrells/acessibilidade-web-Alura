@@ -9,7 +9,8 @@ Curso da Alura, onde pegamos um layout de site pronto e tornamos trouxemos para 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML 
+- CSS
 - JavaScript
 - Git e Github
 - NVDA (leitor de tela)
